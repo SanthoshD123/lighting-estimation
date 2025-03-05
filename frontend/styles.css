@@ -1,0 +1,46 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  transition: background-color 0.5s ease;
+}
+
+.container {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  text-align: center;
+  max-width: 700px;
+  width: 100%;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.webcam-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#webcam {
+  border-radius: 10px;
+  max-width: 100%;
+  display: block;
+}
+
+.status {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}

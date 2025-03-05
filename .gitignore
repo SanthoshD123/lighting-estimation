@@ -1,0 +1,21 @@
+# Python
+backend/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Node.js
+frontend/node_modules/
+frontend/package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
