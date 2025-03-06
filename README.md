@@ -1,4 +1,4 @@
-# Twinverse Technology - Lighting Estimation Project
+#Lighting Estimation Project
 
 ## Objective
 Develop a machine learning-based lighting estimation model that verifies optimal lighting conditions when a camera is activated.
@@ -103,9 +103,9 @@ live-server
 MIT License
 
 ## Contact
-- Project Maintainer: [Your Name]
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Project Maintainer: Santhosh D
+- Email: santhosh.damu78@gmail.com
+- LinkedIn: [Santhosh D](https://www.linkedin.com/in/santhosh-d-a58b69200/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Acknowledgments
 - Twinverse Technology for the coding challenge
