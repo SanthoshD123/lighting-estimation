@@ -1,4 +1,4 @@
-#Lighting Estimation Project
+# Lighting Estimation Project
 
 ## Objective
 Develop a machine learning-based lighting estimation model that verifies optimal lighting conditions when a camera is activated.
