@@ -66,7 +66,17 @@ live-server
 - Internet Connection
 
 ## Sample Outputs
-[Include 2-3 screenshots showing different lighting conditions]
+![image](https://github.com/user-attachments/assets/dbe0ee2e-2bc6-4783-b139-a4363bda528f)
+
+![Screenshot 2025-03-06 110823](https://github.com/user-attachments/assets/27ebf3d8-649b-439a-b086-3d5b18722ac8)
+
+![Screenshot 2025-03-06 110749](https://github.com/user-attachments/assets/00eaa6de-f9d3-4d1f-9915-822c96cc54bd)
+
+![Screenshot 2025-03-06 110548](https://github.com/user-attachments/assets/62915120-e508-431d-85cf-492f82e24baa)
+
+
+
+
 
 ## Challenges Overcome
 - Real-time image processing
